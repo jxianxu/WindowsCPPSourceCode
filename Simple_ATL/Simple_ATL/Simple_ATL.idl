@@ -1,0 +1,18 @@
+// Simple_ATL.idl : IDL source for Simple_ATL
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (Simple_ATL.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(E2CBC517-6AE4-4566-A4B6-346E7D7569F8),
+	version(1.0),
+]
+library Simple_ATLLib
+{
+	importlib("stdole2.tlb");
+};
+

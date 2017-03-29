@@ -1,0 +1,5 @@
+D:\workspace\WMI\WMI\bin\Debug\WMI.exe.config
+D:\workspace\WMI\WMI\bin\Debug\WMI.exe
+D:\workspace\WMI\WMI\bin\Debug\WMI.pdb
+D:\workspace\WMI\WMI\obj\Debug\WMI.exe
+D:\workspace\WMI\WMI\obj\Debug\WMI.pdb
